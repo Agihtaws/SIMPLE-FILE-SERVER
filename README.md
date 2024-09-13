@@ -59,7 +59,8 @@ cargo run
 ### **Example Output:**
 
 When you run the file server and access it via a web browser, you will see an HTML page like this:
-![base64_tool](https://github.com/user-attachments/assets/0711cf1c-31ab-459d-88db-77af91689ba5)
+
+![base64_tool](https://github.com/Agihtaws/SIMPLE-FILE-SERVER/blob/master/Screenshot_20240914_005923.png)
 
 
 ### **Video Demonstration:**
