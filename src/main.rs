@@ -1,5 +1,3 @@
-// main.rs
-
 use std::fs;
 use std::io::{self, BufReader, Read, Write};
 use std::net::TcpListener;
