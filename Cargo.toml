@@ -1,0 +1,16 @@
+[package]
+name = "simple-file-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+infer = "0.9"
+url-escape = "0.1.1"
+mime = "0.3"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+
