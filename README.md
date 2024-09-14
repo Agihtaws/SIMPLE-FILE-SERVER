@@ -63,10 +63,13 @@ When you run the file server and access it via a web browser, you will see an HT
 ![base64_tool](https://github.com/Agihtaws/SIMPLE-FILE-SERVER/blob/master/Screenshot_20240914_005923.png)
 
 
-### **Video Demonstration:**
+### Simple File Server Demo:
 
-Watch a demonstration of the Simple File Server in action:
+<video controls>
+  <source src="https://github.com/Agihtaws/SIMPLE-FILE-SERVER/raw/main/demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 
