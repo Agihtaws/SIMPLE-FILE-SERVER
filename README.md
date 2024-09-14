@@ -65,10 +65,8 @@ When you run the file server and access it via a web browser, you will see an HT
 
 ### Simple File Server Demo:
 
-<video controls>
-  <source src="https://github.com/Agihtaws/SIMPLE-FILE-SERVER/raw/main/demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![Simple File Server Demo](https://github.com/Agihtaws/SIMPLE-FILE-SERVER/blob/master/bounty%2025%20-%20Made%20with%20Clipchamp.webm)
+
 
 
 
