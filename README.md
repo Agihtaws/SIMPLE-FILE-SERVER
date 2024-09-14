@@ -63,9 +63,12 @@ When you run the file server and access it via a web browser, you will see an HT
 ![base64_tool](https://github.com/Agihtaws/SIMPLE-FILE-SERVER/blob/master/Screenshot_20240914_005923.png)
 
 
-### Simple File Server Demo:
+### Video Demo:
 
-![Simple File Server Demo](https://github.com/Agihtaws/SIMPLE-FILE-SERVER/blob/master/bounty%2025%20-%20Made%20with%20Clipchamp.webm)
+[Watch the video on YouTube](https://www.youtube.com/watch?v=scVRteRhyhA)
+
+
+
 
 
 
